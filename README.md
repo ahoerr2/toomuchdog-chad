@@ -14,26 +14,30 @@ A more vscode like configuration for nvchad that allows you to have a full fledg
 ## Installation Instructions
 
 ### Linux & Mac OS
-```git clone https://github.com/ahoerr2/toomuchdog-chad ~/.config/nvim && nvim```
+######
+    git clone https://github.com/ahoerr2/toomuchdog-chad ~/.config/nvim && nvim
 
 ### Windows 
 If you're using Command Prompt(CMD)
-
-`git clone https://github.com/NvChad/starter %USERPROFILE%\AppData\Local\nvim && nvim`
+######
+    git clone https://github.com/NvChad/starter %USERPROFILE%\AppData\Local\nvim && nvim
 
 If you're using PowerShell(pwsh)
-
-`git clone https://github.com/NvChad/starter $ENV:USERPROFILE\AppData\Local\nvim && nvim`
+######
+    git clone https://github.com/NvChad/starter $ENV:USERPROFILE\AppData\Local\nvim && nvim
 
 **If the above path doesnt work, try any of these paths :**
 * For CMD : %LOCALAPPDATA%\nvim
-
-```C:\Users\%USERNAME%\AppData\Local\nvim```
+######
+    C:\Users\%USERNAME%\AppData\Local\nvim
 * For PowerShell : $ENV:LocalAppData\nvim
-
-```C:\Users\$ENV:USERNAME\AppData\Local\nvim```
+######
+    C:\Users\$ENV:USERNAME\AppData\Local\nvim
 
 ## Post Install
 Run `:MasonInstallAll` command after lazy.nvim finishes downloading plugins.
 
-To addon to Toomuchdog-chad create a new git branch and open a PR
+To addon to Toomuchdog-chad create a new git branch and open a PR!
+
+## Update Instructions
+Run `:Lazy sync`
