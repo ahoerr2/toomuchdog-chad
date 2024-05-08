@@ -1,5 +1,7 @@
 # Toomuchdog Chad
 A more vscode like configuration for nvchad that allows you to have a full fledged lsp powered and git assisted code editor in seconds
+<img width="1075" alt="image" src="https://github.com/ahoerr2/toomuchdog-chad/assets/42220471/ae61ea0e-ddad-49c9-b427-4c600f038b5d">
+<img width="1159" alt="image" src="https://github.com/ahoerr2/toomuchdog-chad/assets/42220471/be3d79aa-85c7-43d6-8af0-2c9a3faee055">
 
 ## Prerequisites
 + [Neovim v9.5](https://github.com/neovim/neovim/releases/tag/v0.9.5)
