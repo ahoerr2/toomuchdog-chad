@@ -14,7 +14,7 @@ A more vscode like configuration for nvchad that allows you to have a full fledg
 ## Installation Instructions
 
 ### Linux & Mac OS
-```git clone https://github.com/NvChad/starter ~/.config/nvim && nvim```
+```git clone https://github.com/ahoerr2/toomuchdog-chad ~/.config/nvim && nvim```
 
 ### Windows 
 If you're using Command Prompt(CMD)
